@@ -1,4 +1,4 @@
-# tdd-spring
+# TDD-SPRING
 
 #### Material de estudo seguindo as aulas do canal da Michelli Brito
 
